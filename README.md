@@ -2,5 +2,9 @@
 
 ![](screenshot.jpg)
 
-this is made for `5mm` thick wood
+Dimensions
+
+- thickness of the wood `5mm`
+- ball bearing outer diameter `22mm`
+- ball bearing inner diameter `8mm`
 
